@@ -9,7 +9,7 @@ pandas = "==2.2.0"
 matplotlib = "*"
 pylint = "*"
 black = "*"
-g
+
 [dev-packages]
 
 [requires]
